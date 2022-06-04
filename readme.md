@@ -1,5 +1,13 @@
 # JetBrain's Rust Macro Expansion
 
+## Update
+
+This has been fixed with version `0.4.164.4409-212` of the Rust plugin.
+Make sure to update to at least this version.
+
+
+## Original Issue
+
 This example repository exists to show an issue with JetBrain's &ldquo;new engine&rdquo; for macro expansions in Rust.
 
 I've verified it in CLion 2021.2.2 (Build #CL-212.5284.51) but I assume it's visible in other products as well via the Rust plugin.
